@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net8.0\EstruturaSwitchCase.exe
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net8.0\EstruturaSwitchCase.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net8.0\EstruturaSwitchCase.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net8.0\EstruturaSwitchCase.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net8.0\EstruturaSwitchCase.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\EstruturaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\EstruturaSwitchCase.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\EstruturaSwitchCase.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\EstruturaSwitchCase.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\EstruturaSwitchCase.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\refint\EstruturaSwitchCase.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\EstruturaSwitchCase.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\EstruturaSwitchCase.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net8.0\ref\EstruturaSwitchCase.dll
